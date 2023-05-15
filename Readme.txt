@@ -1,0 +1,1 @@
+Use POSTMAN api or thundercloud for api's
